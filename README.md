@@ -1,1 +1,2 @@
-# Git-tips
+# Git tips
+## Git подсказки
